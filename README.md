@@ -4,5 +4,8 @@
 #### By **{Wendy and Keren}**
 ## Description
 {Contains two major files describing about me.}
+#set up and installation
+* To visit this website go to
+* MungaiKeren.github.io/wendy
 
   
