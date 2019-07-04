@@ -3,7 +3,7 @@
 <!--, {Date of current version}-->
 #### By **{Wendy and Keren}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{Contains two major files describing about me.  My-first webpage has}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
